@@ -13,10 +13,11 @@
 # }
 require "pry"
 
+
 my_songs = {
-"Go Go GO" => '/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '/home/harenarium/jukebox-cli/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli/audio/Emerald-Park/03.mp3',
+"Go Go GO" => '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/03.mp3',
 "Guiding Light" => '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/04.mp3',
 "Wolf" => '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/05.mp3',
 "Blue" => '/Users/caroline/.atom/.learn-ide/home/harenarium/jukebox-cli-prework/audio/Emerald-Park/06.mp3',
